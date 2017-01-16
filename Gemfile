@@ -17,7 +17,7 @@ gem 'jquery-rails'
 gem 'jbuilder', '~> 2.5'
 gem 'devise'
 gem 'bower-rails'
-
+gem 'faker'
 group :development, :test do
   gem 'byebug', platform: :mri
 end
