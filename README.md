@@ -10,4 +10,5 @@ help: rails new --help
 
 3. bundle exec rake db:create
   bundle exec rake db:migrate
+4.Create a static dashbord
 
